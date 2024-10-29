@@ -12,5 +12,11 @@ Acceptance Criteria:
 
 The app is deployed on Render here:
 
+https://module-21-challenge.onrender.com
+
+Screenshot showing how the website performs:
+
+![image](https://github.com/user-attachments/assets/70be37b8-aa59-44ac-8cb6-f34c363a699f)
+
 
 
